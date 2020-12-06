@@ -10080,8 +10080,11 @@ h3 {
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
+
+/* Hover para telefonos item seleciconado */
+
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1abc2e;
+  color: #734500;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
